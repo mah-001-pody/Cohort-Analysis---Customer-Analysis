@@ -116,9 +116,3 @@ jupyter notebook Cohort_Analysis_Customer_Analysis.ipynb
 
 ---
 
-
----
-
-## 👤 Tác giả
-
-**Tú Nguyễn** @ Xóm Data · 2026
